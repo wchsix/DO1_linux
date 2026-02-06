@@ -6,7 +6,7 @@
 
 ###  Установить **Ubuntu 20.04 Server LTS** без графического интерфейса. (Используем программу для виртуализации - VirtualBox)
 
-<img width="936" height="56" alt="image" src="https://github.com/user-attachments/assets/9e732971-2c22-47a4-81f0-c76caa3dc915" />
+<img width="468" height="28" alt="image" src="https://github.com/user-attachments/assets/9e732971-2c22-47a4-81f0-c76caa3dc915" />
 
 
 ## Part 2. Создание пользователя
