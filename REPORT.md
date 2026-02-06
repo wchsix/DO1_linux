@@ -265,7 +265,7 @@
 
 ### Используя команду ps, показать наличие процесса sshd. Для этого к команде нужно подобрать ключи.
 
-Для этого нужно использовать команду ps -C sshd -f <img 
+Для этого нужно использовать команду ps -C sshd -f 
 
 <img width="932" height="86" alt="image" src="https://github.com/user-attachments/assets/bd99c39c-dd68-4e91-80fb-dff59acb61d8" />
 
