@@ -17,12 +17,12 @@
 
 Для создания нового пользователя нужно воспользоваться командой **sudo adduser caylaleg**
 
-<img width="936" height="40" alt="image" src="https://github.com/user-attachments/assets/8a2e3845-bafa-49b4-9d0f-56bcd6b24848" />
+<img width="600" height="40" alt="image" src="https://github.com/user-attachments/assets/8a2e3845-bafa-49b4-9d0f-56bcd6b24848" />
 
 
 Команда для добавления пользователя в группу **adm sudo usermod -aG adm caylaleg**
 
-<img width="936" height="40" alt="image" src="https://github.com/user-attachments/assets/6bad2b9e-1152-4f1d-9faa-33bac9b9dece" />
+<img width="600" height="40" alt="image" src="https://github.com/user-attachments/assets/6bad2b9e-1152-4f1d-9faa-33bac9b9dece" />
 
 Команда **groups** проверяет, показывает в какой группе находится пользователь
 
