@@ -6,7 +6,7 @@
 
 ###  Установить **Ubuntu 20.04 Server LTS** без графического интерфейса. (Используем программу для виртуализации - VirtualBox)
 
-<img width="800" height="100" alt="image" src="https://github.com/user-attachments/assets/97aed4eb-a5f1-4210-8ab4-c677b6aad04e" />
+<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/97aed4eb-a5f1-4210-8ab4-c677b6aad04e" />
 
 
 
@@ -17,11 +17,11 @@
 
 Для создания нового пользователя нужно воспользоваться командой **sudo adduser caylaleg**
 
-<img width="800" height="100" alt="image" src="https://github.com/user-attachments/assets/1bec5843-6059-41dd-84af-d56240f50e87" />
+<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/1bec5843-6059-41dd-84af-d56240f50e87" />
 
 Команда для добавления пользователя в группу **adm sudo usermod -aG adm caylaleg**
 
-<img width="800" height="100" alt="image" src="https://github.com/user-attachments/assets/6bad2b9e-1152-4f1d-9faa-33bac9b9dece" />
+<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/6bad2b9e-1152-4f1d-9faa-33bac9b9dece" />
 
 Команда **groups** проверяет, показывает в какой группе находится пользователь
 
@@ -38,7 +38,7 @@
 
 Задать название машины можно через команду **sudo set-hostnamectl set-hostname user-1**
 
-<img width="800" height="100" alt="image" src="https://github.com/user-attachments/assets/3528394d-f641-4eec-b442-00cab096af29" />
+<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/3528394d-f641-4eec-b442-00cab096af29" />
 
 ### Установить временную зону, соответствующую вашему текущему местоположению.  
 
